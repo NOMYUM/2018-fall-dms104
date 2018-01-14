@@ -1,15 +1,13 @@
 # Course Syllabus: DMS 104 - Design in the Digital Age
 
+Designing digital products and services requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as a design process, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. Mastery of this process will prepare DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
+
 - CRN: **21835**
 - Course: **DMS 104**
 - Credits: **4.0**
 - Schedule: **Tues., Thurs.,12:30 - 1:45 PM**
 - Building: **Rettner Hall**
 - Room: **307**
-
-## Course Description
-Designing digital products and services requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as a design process, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. Mastery of this process will prepare DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
-
 
 ## Instructor Information 
 - Instructor: **Professor Kostin**
@@ -19,7 +17,7 @@ Designing digital products and services requires a process of "Interaction Desig
 
 ### Office Hours
 
-- **Open Office Hours:** The professor will be available to help answer questions and provide general assistance in an open lab setting during the following times and locations most weeks unless the lab is being used for instruction or an exam for another course.  Updates regarding availability will be posted in Slack.
+- **Open Office Hours:** The professor will be available to help answer questions and provide general assistance in an open lab setting during the following times and locations most weeks unless the lab is being used for instruction or an exam for another course.  Updates regarding availability will be posted in [Slack](#communication).
 
 | **Day & Time**                           | **Location** |
 | ---------------------------------------- | ------------ |
@@ -27,11 +25,28 @@ Designing digital products and services requires a process of "Interaction Desig
 | Tuesdays & Thursdays 9:40 - 10:55 AM     | Gavett 244   |
 | Tuesdays & Thursdays 11:05 AM - 12:20 PM | Gavett 244   |
 
+- **Virtual Office Hours:** the professor will publish times when he will be available to answer questions and provide general assistance via [Slack](#communication).
 - **Private Office Hours:** by appointment only *(When students need to meet with the professor privately, send email to <robert.kostin@rochester.edu>)*
 
 ### Teaching Assistant
 
-xxx
+- Teron Russell <trusse10@u.rochester.edu>
+
+The TA will also be monitoring and providing assistance via [Slack](#communication).
+
+## Communication
+
+The professor will use **Slack** to make course‑related announcements and to distribute assignments.  Students are required to monitor Slack for announcements daily.  
+
+Students may also use Slack to ask questions and get help from the TAs and professor.
+
+- Sign-up for access to the DMS 104 Slack Workspace here: [join.slack.com/t/dms104/signup](https://join.slack.com/t/dms104/signup)
+  - Students must use their **rochester.edu** email when signing-up for access
+- After the student has created their account, they can access the *DMS 104 Slack Workspace* here: [dms104.slack.com](https://dms104.slack.com/) 
+  - Consider bookmarking that address
+  - For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
+  - Also consider turning-on Slack notifications in the smartphone app; they can be customized so the student is not overwhelmed with notifications
+
 
 ## Texts and Materials
 
@@ -54,25 +69,6 @@ Students' inability to answer exam questions, complete lab assignments, or compl
 ### Presentation Software
 
 Students are required to create and present information in-class on a regular basis using slides and a projector.  
-
-### Communication
-
-The professor will use **Slack** to make course‑related announcements and to distribute assignments.  Students are required to monitor Slack for announcements daily.  
-
-Students may also use Slack to collaborate with their team members (there will be team work in DMS 104) and to ask questions and get help from the TA and professor.
-
-- Sign-up for access to the DMS 104 Slack Workspace here: [join.slack.com/t/dms104/signup](https://join.slack.com/t/dms104/signup)
-
-  - Students must use their **rochester.edu** email when signing-up for access
-
-- After the student has created their account, they can access the *DMS 104 Slack Workspace* here: [dms104.slack.com](https://dms104.slack.com/) 
-
-  - Consider bookmarking that address
-  - For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
-
-
-  - Also consider turning-on Slack notifications in the smartphone app
-    - Notifications can be customized so the student is not overwhelmed with notifications
 
 ## Grading
 
