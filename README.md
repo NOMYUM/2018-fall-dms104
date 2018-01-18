@@ -2,6 +2,5 @@
 
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)
-- [Assignment 1: coming soon]()
-
+- [Book Overview](book-overview.md)
 
