@@ -2,6 +2,12 @@
 Design in the Digital Age
 
 - [Syllabus](syllabus.md)
-- [Schedule](schedule.md)
+- [Schedule](schedule.md) <-- you’ll find the presentation files and other course materials here
 - [Book Overview](book-overview.md)
-- Current assignment you should be working on: [Assignment 1: Team Role Presentation](assignment01-team-role-presentation/instructions.md)
+
+<hr>
+
+- Current assignment:
+  - [coming soon]
+- Previous assignments:
+  - Assignment 1: [Team Role Presentation](assignment01-team-role-presentation/instructions.md)
