@@ -3,10 +3,10 @@ This schedule is subject to modification throughout the semester. Always check w
 
 | Date                        | Activity                                 | Assignment                               | Notes                                    |
 | :-------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Thursday, January 18, 2018  | [Introduction and Overview of the Course](lecture01-introduction/Introduction.pdf) | [Assignment 1: Team Role Presentation](assignment01-team-role-presentation/instructions.md) | Read **Chapter 2: Assembling the Team**  |
+| Thursday, January 18, 2018  | [Introduction and Overview of the Course (PDF)](lecture01-introduction/Introduction.pdf) | [Assignment 1: Team Role Presentation](assignment01-team-role-presentation/instructions.md) | Read **Chapter 2: Assembling the Team**  |
 | Tuesday, January 23, 2018   | Team Development                         |                                          | [DMS 104 Initial Team Role Presentations, Part 1 (YouTube)](https://youtu.be/bP1D_tapZ-4) |
-| Thursday, January 25, 2018  | Team Development                         |                                          |                                          |
-| Tuesday, January 30, 2018   | Idea Generation                          |                                          |                                          |
+| Thursday, January 25, 2018  | Team Development<br /><br />Team "City Offices" | Team Leads must "hire" an IxD, VisD, and ID<br /><br />Team Leads must setup a private channel for their team  in Slack (invite the Professor and our TA, Teron) | [DMS 104 Initial Team Role Presentations, Part 2 (YouTube)](https://youtu.be/dMfvUIwWUNY)<br /><br />[City Teams](https://goo.gl/41Pebw) (Team Leads have read/write access; everyone has read-only access) |
+| Tuesday, January 30, 2018   | [Idea Generation (PDF)](lecture04-idea-generation/criteria-design-project-ideas.pdf) | Propose ideas (we need nine total, for the class) | Everyone must be assigned to a City Team by now<br /><br />Read **Chapter 3: Project Planning**, focus mostly on the *Marketing Requirements Document* (pages 35-39) |
 | Thursday, February 1, 2018  | Research Overview                        |                                          |                                          |
 | Tuesday, February 6, 2018   | Marketing Requirements Document (MRD)    |                                          |                                          |
 | Thursday, February 8, 2018  | Research Prep                            |                                          |                                          |
