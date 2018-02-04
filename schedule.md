@@ -7,29 +7,29 @@ This schedule is subject to modification throughout the semester. Always check w
 | Tuesday, January 23, 2018   | Team Development                         |                                          | [DMS 104 Initial Team Role Presentations, Part 1 (YouTube)](https://youtu.be/bP1D_tapZ-4) |
 | Thursday, January 25, 2018  | Team Development<br /><br />Team "City Offices" | Team Leads must "hire" an IxD, VisD, and ID<br /><br />Team Leads must setup a private channel for their team  in Slack (invite the Professor and our TA, Teron) | [DMS 104 Initial Team Role Presentations, Part 2 (YouTube)](https://youtu.be/dMfvUIwWUNY)<br /><br />[City Teams](https://goo.gl/41Pebw) (Team Leads have read/write access; everyone has read-only access) |
 | Tuesday, January 30, 2018   | [Idea Generation (PDF)](lecture04-idea-generation/criteria-design-project-ideas.pdf) | Propose ideas (we need nine total, for the class) | Everyone must be assigned to a City Team by now<br /><br />Read **Chapter 3: Project Planning**, focus mostly on the *Marketing Requirements Document* (pages 35-39) |
-| Thursday, February 1, 2018  | Research Overview                        |                                          |                                          |
-| Tuesday, February 6, 2018   | Marketing Requirements Document (MRD)    |                                          |                                          |
-| Thursday, February 8, 2018  | Research Prep                            |                                          |                                          |
-| Tuesday, February 13, 2018  | Modeling                                 |                                          |                                          |
-| Thursday, February 15, 2018 | Personas                                 |                                          |                                          |
+| Thursday, February 1, 2018  | Idea Generation, cont'd                  | *In-class Exercise 1: Idea Generation*, second submission (due Monday, February 5 at 12:30 PM) | MRD, discussed (not assigned yet)        |
+| Tuesday, February 6, 2018   | [Idea Selection (running list of ideas)](https://docs.google.com/spreadsheets/d/1rk7CfbDY2JMCBr2IHGVBoQxM6pecgUDchF0-hWcsDn0/edit#gid=0), and Marketing Requirements Document (MRD) | [Marketing Requirements Document (MRD)](project01-mrd/instructions.md), assigned |                                          |
+| Thursday, February 8, 2018  | Research Overview                        |                                          |                                          |
+| Tuesday, February 13, 2018  | Modeling                                 |                                          | MRD, due                                 |
+| Thursday, February 15, 2018 | MRD Presentations                        |                                          |                                          |
 | Tuesday, February 20, 2018  | Personas                                 |                                          |                                          |
 | Thursday, February 22, 2018 | Requirements                             |                                          |                                          |
 | Tuesday, February 27, 2018  | Work:research -> modeling, persona development |                                          |                                          |
 | Thursday, March 1, 2018     | Work:modeling, personas -> requirements, context scenarios |                                          |                                          |
-| Tuesday, March 6, 2018      | Reviewand prep for U&DA                  |                                          |                                          |
-| Thursday, March 8, 2018     | Reviewand prep for U&DA                  |                                          |                                          |
+| Tuesday, March 6, 2018      | Review and prep for U&DA                 |                                          |                                          |
+| Thursday, March 8, 2018     | Review and prep for U&DA                 |                                          |                                          |
 | Tuesday, March 13, 2018     | HOLIDAY - no lecture                     |                                          |                                          |
 | Thursday, March 15, 2018    | HOLIDAY - no lecture                     |                                          |                                          |
 | Tuesday, March 20, 2018     | Presentations:User and Domain Analysis (U&DA) |                                          |                                          |
 | Thursday, March 22, 2018    | Presentations:User and Domain Analysis (U&DA) |                                          |                                          |
-| Tuesday, March 27, 2018     | Midtermreview and team status            |                                          |                                          |
+| Tuesday, March 27, 2018     | Midterm review and team status           |                                          |                                          |
 | Thursday, March 29, 2018    | Midterm Exam                             |                                          |                                          |
 | Tuesday, April 3, 2018      | Framework/ Design Language               |                                          |                                          |
 | Thursday, April 5, 2018     | Framework/ Design Language               |                                          |                                          |
-| Tuesday, April 10, 2018     | DesignVision / Detailed Design           |                                          |                                          |
-| Thursday, April 12, 2018    | DesignVision / Detailed Design           |                                          |                                          |
-| Tuesday, April 17, 2018     | DesignVision / Detailed Design           |                                          |                                          |
-| Thursday, April 19, 2018    | Formand Behavior Specification (F&BS)    |                                          |                                          |
-| Tuesday, April 24, 2018     | Formand Behavior Specification (F&BS)    |                                          |                                          |
-| Thursday, April 26, 2018    | Formand Behavior Specification (F&BS)    |                                          |                                          |
+| Tuesday, April 10, 2018     | Design Vision / Detailed Design          |                                          |                                          |
+| Thursday, April 12, 2018    | Design Vision / Detailed Design          |                                          |                                          |
+| Tuesday, April 17, 2018     | Design Vision / Detailed Design          |                                          |                                          |
+| Thursday, April 19, 2018    | Form and Behavior Specification (F&BS)   |                                          |                                          |
+| Tuesday, April 24, 2018     | Form and Behavior Specification (F&BS)   |                                          |                                          |
+| Thursday, April 26, 2018    | Form and Behavior Specification (F&BS)   |                                          |                                          |
 | Tuesday, May 1, 2018        | Final Exam                               |                                          |                                          |
