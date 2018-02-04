@@ -19,7 +19,15 @@ Based on that letter, your first job as design team is to write a **Marketing Re
   - Depending on the project idea you're working with, some of the sections will be easier to answer than others, and some might make no sense.  Regardless, you must address all the sections and say *something* for each.
   - Remember: the document is *not* a sales brochure for the product.  You are "selling" yourselves as a design team - proving to the stakeholders that you understand what is being asked and you know what you're going to do, in as much detail as possible at this early stage.
   - Also, remember: you have not designed the product yet so don't describe the product!  Describe what it's supposed to do, address the ambiguities at this point (there should be many) and what your design challenge will be.
-- Based on the content of your finished MRD, create an MRD presentation
+
+  #### Colophon
+
+  Also required: at the back of the document, there must be a section titled: "Colophon".  On that page, put a listing of all the team members and who did what, specifically, as part of this assignment.  Be as detailed as possible. 
+
+  - If there is a perceived disparity of effort within the team, any team member may DM the professor in Slack and voice their concerns.  The professor will maintain the team member's anonymity and assess the relative level of effort for each member when assigning grades.  Anyone who ends up doing more work than someone else will get the other person's grade added to their own as extra credit.
+
+
+- Based on the content of your finished MRD document, create an MRD presentation
   - The presentation slides should not contain anything that the document doesn't already say and vice versa.  
   - However, the slides should be a pared-down version of the verbiage from the document, using nothing but clips & phrases in the bullet points and visuals that add value only
   - Details behind the bulleted lists on the slides should appear in the speaker notes
@@ -41,12 +49,6 @@ Then the document should start with a general description of what you believe th
 Then the rest of the document should follow the outline provided from the headings in the book, in the section: "Determining Your Project's Parameters."  Just write what you think the stakeholders wants to hear.  DO NOT use marketing *fluff words*.  Be specific in terms of the design process.  (You are designers - not marketing people!)
 
 Suggestion for the **Team Lead**: set up the document and assign various parts to the team members.  In this case, it doesn't matter who does what.  You're all getting graded together as one.  
-
-### Colophon
-
-Also required: at the back of the document, there must be a section titled: "Colophon".  On that page, put a listing of all the team members and who did what, specifically, as part of this assignment.  Be as detailed as possible. 
-
-- If there is a perceived disparity of effort within the team, any team member may DM the professor in Slack and voice their concerns.  The professor will maintain the team member's anonymity and assess the relative level of effort for each member when assigning grades.  Anyone who ends up doing more work than someone else will get the other person's grade added to their own as extra credit.
 
 ## The Presentation
 
