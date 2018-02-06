@@ -52,10 +52,12 @@ Suggestion for the **Team Lead**: set up the document and assign various parts t
 
 ## The Presentation
 
-After the document is nailed down, then the **presenter **(whoever you decide) needs to create a five-minute formal presentation based on the MRD and deliver it on Tuesday.   
+After the document is nailed down, then the **presenter **(whoever you decide) needs to create a five-minute formal presentation based on the MRD and deliver it on Thursday.   
 
-- Be sure to follow the Rules for Formal Presentations.  
+- Note: the *file* for the presentation is turned-in with the document on Tuesday, but the actual stand-up delivery of it is on Thursday.
+- Be sure to follow the Rules for Formal Presentations.
 - The grade for the presenter will be extra credit, i.e. it can't hurt you
+  - If you want to split the presentation among members of the team, you can do that to split the extra credit. 
 
 # Submissions in Blackboard
 
