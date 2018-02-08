@@ -9,8 +9,8 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
+  - Read Chapters 4 and 5
   - [Marketing Requirements Document (MRD)](project01-mrd/instructions.md), due Tuesday, February 13
-
 - Previous assignments:
   - [Idea Proposals (PDF)](lecture04-idea-generation/criteria-design-project-ideas.pdf) (Just be ready to propose an idea; we need nine total, for the class)
   - Read **Chapter 3: Project Planning**, focus mostly on the *Marketing Requirements Document* (pages 35-39) 
