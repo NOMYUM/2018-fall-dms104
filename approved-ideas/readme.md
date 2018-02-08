@@ -32,7 +32,7 @@ Also, be careful when writing your MRD.  Do not design the product (yet)!  The p
   - [The letter from the inventor](air-pillow.md)
   - [The original presentation slide (from you guys)](https://docs.google.com/presentation/d/1dF8hZx0meV-ls8njMeJ1pT5nDEMpppwsyj5rq3HH594/edit#slide=id.g32b6a55a54_0_13)
 - **Interactive Park Benches**
-  - [The letter from the inventor](interactive-park-benches.md)
+  - [The letter from the inventor](interactive-bench.md)
   - [The original presentation slide (from you guys)](https://drive.google.com/drive/folders/1cxY6kSSj1qa4xWFmiA9H94NMeUFZMMRv)
 - **iMask**
   - The letter from the inventor (coming soon)

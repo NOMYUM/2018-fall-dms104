@@ -1,4 +1,4 @@
-# Interactive Park Benches
+# Interactive Bench
 
 Hello designers, 
 
