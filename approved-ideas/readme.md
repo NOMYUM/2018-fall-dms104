@@ -6,6 +6,8 @@ Also included are the original presentation slides (from you guys) that you can 
 
 *Remember: you're selling your design team to the stakeholders - you are <u>not</u> selling the product!*
 
+Also, be careful when writing your MRD.  Do not design the product (yet)!  The point of DMS 104 is to go through the design process - something you haven't done.  So you **cannot** tell the stakeholders what the product will look like, what it will do, et cetera, because you haven't done the research and design work.  Instead, just *postulate* about the product, what it *may* do, and what you as a design team will do to explore the possibilities.
+
 ## Letters
 
 - **Curl Temp**
