@@ -12,7 +12,7 @@ It also provides static information like maps, but in an interactive way.  Users
 
 I can even interface the device with users' smartphones so they can carry updates - like walking directions - with them.
 
-There are other features, but I don't know which ones I should develop or which ones aren't really necessary.  I need you guys to help figure that out.  I can also improve the interface to ask the queries.  It can be typed or vocalized, or maybe a can present a visual map that represents everything that's available, and the user can browse (as opposed to search) by scrolling through some kind of touch interface ...I don't know.  You tell me what's important, and I'll build it - whatever it takes!
+There are other features, but I don't know which ones I should develop or which ones aren't really necessary.  I need you guys to help figure that out.  I can also improve the interface to ask the queries.  It can be typed or vocalized, or maybe I can present a visual map that represents everything that's available, and the user can browse (as opposed to search) by scrolling through some kind of touch interface ...I don't know.  You tell me what's important, and I'll build it - whatever it takes!
 
 As it is now however, the map device is kinda clunky, doesn't look like much (just a box with a lot of things sticking out of it), and lots of wires coming out that connect to my laptop.  I use my laptop as the user interface.  Obviously, we can't sell it like that.  It needs your special skills to decide what exactly it should do, what it should look like, and how it should operate.  
 
