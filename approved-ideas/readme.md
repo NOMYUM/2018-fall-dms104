@@ -24,7 +24,7 @@ Also included are the original presentation slides (from you guys) that you can 
   - [The letter from the inventor](smart-bookshelf.md)
   - [The original presentation slide (from you guys)](https://docs.google.com/presentation/d/1UaScjOJDmvCiQTtD7seFCAtmtmDtRDdlVEdg8RNroOA/edit#slide=id.p3)
 - **Interior Map Application**
-  - The letter from the inventor (coming soon)
+  - [The letter from the inventor](interior-map.md)
   - [The original presentation slide (from you guys)](https://docs.google.com/presentation/d/1VmrOiRCYQ86sfs-yH27R2kYD6cMc2EHYBtBYlzDNU44/edit#slide=id.p)
 - **Air Pillow**
   - The letter from the inventor (coming soon)
