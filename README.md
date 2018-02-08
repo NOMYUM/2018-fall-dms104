@@ -4,6 +4,7 @@ Design in the Digital Age
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md) <-- you’ll find the presentation files and other course materials here
 - [Book Overview](book-overview.md)
+- [Approved Ideas (including letters from the inventor)](approved-ideas)
 
 <hr>
 
