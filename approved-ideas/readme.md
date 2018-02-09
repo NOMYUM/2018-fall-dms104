@@ -35,6 +35,6 @@ Also, be careful when writing your MRD.  Do not design the product (yet)!  The p
   - [The letter from the inventor](interactive-bench.md)
   - [The original presentation slide (from you guys)](https://drive.google.com/drive/folders/1cxY6kSSj1qa4xWFmiA9H94NMeUFZMMRv)
 - **iMask**
-  - The letter from the inventor (coming soon)
+  - [The letter from the inventor](imask.md)
   - [The original presentation slide (from you guys)](https://docs.google.com/presentation/d/1XjPGc1lG9WpCuQdLDoOIxTao_E11oTMSt3IAOvq2a-w/edit#slide=id.g32b832f11b_0_0)
 
