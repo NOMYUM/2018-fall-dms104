@@ -2,7 +2,7 @@
 
 Hello designers, 
 
-I invented a device that I've tentatively called "iMask" which looks like a type of headgear - like a space helmet - that fits over a person's head and provides services and environmental protection like temperature control, air filtration, and other factors that improves a person's ability to be comfortable in extreame environments whether they be hot, cold, or heavily polluted.  In addition to temperature control devices and air filtration in the helmet, I can add speakers (headphones), a mic, and even dispensers for aroma therapy.  
+I invented a device that I've tentatively called "iMask" which looks like a type of headgear - like a space helmet - that fits over a person's head and provides services and environmental protection like temperature control, air filtration, and other factors that improves a person's ability to be comfortable in extreme environments whether they be hot, cold, or heavily polluted.  In addition to temperature control devices and air filtration in the helmet, I can add speakers (headphones), a mic, and even dispensers for aroma therapy.  
 
 There can be a lot of other features, but I don't know which ones I should develop or which ones aren't really necessary.  I need you guys to help figure that out.  I can also improve the interface to control the features.  Commands can be typed on a connected device, or vocalized, or maybe I can rig-up "head gestures" that can programmed to control features ...I don't know.  You tell me what's important, and I'll build it - whatever it takes!
 
