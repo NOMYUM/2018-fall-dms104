@@ -9,8 +9,8 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
-  - [Sign-up for MRD Presentation Slot (Google Doc)](https://goo.gl/whbTmi)
-    [Sign-up for Stakeholder Meeting (Google Doc)](https://goo.gl/srXZ6z)
+  - [Sign-up for MRD Presentation Slot (Google Doc)](https://goo.gl/whbTmi)<br>
+    [Sign-up for Stakeholder Meeting (Google Doc)](https://goo.gl/srXZ6z)<br>
     [Swap Design Team Roles (Google Sheet)](https://goo.gl/CYorQ3)
   - Read Chapters 4 and 5
 - Previous assignments:
