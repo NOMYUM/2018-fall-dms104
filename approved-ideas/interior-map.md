@@ -1,4 +1,4 @@
-# Interior Map Applications
+# Interior Map Application
 
 Hello Designers,
 
