@@ -97,12 +97,11 @@ Outside of the classroom sessions, students need to: read/study assigned section
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-| Activity                                 | Weight of the final grade                |
-| ---------------------------------------- | ---------------------------------------- |
-| **Presentation Prep and Delivery**<br />Every step of the design process requires the ability to summarize and articulate the work being done; students will be graded on content and their ability to present their work using a professional presentation style | **20%**<br />Each student will have multiple opportunities to participate in the creation and delivery of presentations over the course of the semester |
-| **Participation and Checkpoint Deliverables** <br />All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | **10%**<br />There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
+| Activity                                                     | Weight of the final grade                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Participation and Checkpoint Deliverables** <br />All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | **20%**<br />There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
 | **Project**<br />Students will design an interactive digital product in four phases over the course of the semester <br /><br />Phase 1 - Marketing Requirements<br />Phase 2 - User and Domain Analysis <br />Phase 3 - Design Vision<br />Phase 4 - Detailed Design | **50%**<br />The four phases of the design process will require students to work in a team to deliver the phase documents<br />5%<br />15%<br />15%<br />15% |
-| **Exams**<br />Midterm<br />Final        | **20%**<br />10%<br />10%                |
+| **Exams**<br />Midterm<br />Final                            | **30%**<br />15%<br />15%                                    |
 
 ### Due Dates
 For each assignment and project, the **due date** is shown near the top of its instruction sheet. To avoid a zero grade, each must be turned-in via Blackboard on or before its due date.  
