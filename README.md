@@ -9,9 +9,9 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
-  - Read Chapters 10 and 11; start creating models and personas
-  - Research - interviews, other research
+  - Modeling Workshop, Persona Workshop
 - Previous assignments:
+  - Research - interviews, other research
   - Focus Groups
   - [Research Plan](checkpoint02-research-plan/instructions.md)
   - [Marketing Requirements Document (MRD)](project01-mrd/instructions.md)
