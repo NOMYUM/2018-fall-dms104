@@ -9,7 +9,7 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
-  - Modeling Workshop, Persona Workshop
+  - Modeling Workshop, Persona Workshop (attendance and participation, graded)
 - Previous assignments:
   - Research - interviews, other research
   - Focus Groups
