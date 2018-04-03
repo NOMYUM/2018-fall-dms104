@@ -9,8 +9,10 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
-  - Modeling Workshop, Persona Workshop (attendance and participation, graded)
+  - Create Requirements & Scenarios
+  - Create User & Domain Analysis
 - Previous assignments:
+  - Modeling Workshop, Persona Workshop
   - Research - interviews, other research
   - Focus Groups
   - [Research Plan](checkpoint02-research-plan/instructions.md)
