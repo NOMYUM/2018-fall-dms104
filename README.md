@@ -10,7 +10,7 @@ Design in the Digital Age
 
 - Current assignment:
   - Create Requirements & Scenarios
-  - Create User & Domain Analysis
+  - [User & Domain Analysis (U&DA)](project02-u&da/instructions.md), due Thursday, April 12
 - Previous assignments:
   - Modeling Workshop, Persona Workshop
   - Research - interviews, other research
