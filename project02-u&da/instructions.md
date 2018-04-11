@@ -53,7 +53,8 @@ Here (below) are requirements and advice for each section:
 *(VisD)*
 
 - Describe the types of research you did. Explain what you did and why.
-- Don’t forget to include a summary of the important information learned from the first project idea presentation, the first stakeholder meeting we did, and the classroom focus group.  Then describe everything else. 
+- Don’t forget to include in your list the the first stakeholder and the classroom focus group.  Then list everything else. 
+- With each item in the list, explain how and why you thought that research type would be appropriate and useful for the product you were planning to design.
 - In this section just describe the work you did – not the results!  (Results go in the next section.)
 
 ### Summary of research findings
