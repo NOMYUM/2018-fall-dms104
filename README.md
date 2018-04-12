@@ -9,9 +9,11 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
-  - Create Requirements & Scenarios
-  - [User & Domain Analysis (U&DA)](project02-u&da/instructions.md), due Thursday, April 12
+  - Create Interaction Framework and Design Language
+  - Project 3: Design Vision, due Thursday, April 24 (maybe sooner, stand by...)
 - Previous assignments:
+  - Project 2: [User & Domain Analysis (U&DA)](project02-u&da/instructions.md), due Thursday, April 12
+  - Create Requirements & Scenarios
   - Modeling Workshop, Persona Workshop
   - Research - interviews, other research
   - Focus Groups
