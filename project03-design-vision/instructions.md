@@ -26,9 +26,9 @@ when the book refers to the number of slides - you're putting together a documen
 ## Sections
 
 - [ ] Project Summary and Expectations (Team Lead)
-      - This is where you re-introduce your product and what it will do. 
 
-      - Here you can bring up ongoing concerns and issues (if any) that impact the design.
+  - This is where you re-introduce your product and what it will do.
+  - Here you can bring up ongoing concerns and issues (if any) that impact the design.
 
 - [ ] Key Personas and Requirements (Team Lead)
 
