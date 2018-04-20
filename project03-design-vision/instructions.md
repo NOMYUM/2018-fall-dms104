@@ -6,7 +6,7 @@ This assignment, Project 3, is worth 15% of your overall grade for this course. 
 
 Think of the *Design Vision* as your book of rules that you’ll use when you design the actual product in the next and final section of the course.  And remember, the rules you write must be related to information you pulled together in your U&DA document.
 
-In our book, *Design for the Digital Age*, the Design Vision is described in terms of a presentation, but in DMS 104 you'll be putting together a document only. The document will summarize  data that your design team pulled together after the User and Domain Analysis based on the instruction from these chapters:  
+In our book, *Design for the Digital Age*, the Design Vision is described in terms of a presentation, but in DMS 104 you'll be putting together a document only based on the instruction from these chapters:  
 
 - Framework (Chapters 14, 15, 16)
 - Design Language (Chapters 17, 18)
@@ -17,8 +17,7 @@ The rubric for the Design Vision is in this document (below) wherever you see a 
 
 *Responsibility of the Team Lead...*
 
-NOTE: the following sections are described in detail in Chapter 19, in the book, starting with *Crafting the Story* on page 517.  You can follow what's described in those pages keeping in mind: you are working on a much smaller project and you don't have to go into as much detail as they do in the book, especially
-when the book refers to the number of slides - you're putting together a document for this deliverable, not a presentation.
+NOTE: the following sections are described in detail in Chapter 19, in the book, starting with *Crafting the Story* on page 517.  You can follow what's described in those pages keeping in mind: you are working on a much smaller project and you don't have to go into as much detail as they do in the book, especially when the book refers to the number of slides - you're putting together a document for this deliverable, not a presentation.
 
 - [ ] The document must follow **normal formatting practices** for college-level documents: proper headers, footers, typeface, line spacing, et cetera.  Poorly formatted documents, spelling mistakes, or anything that makes the document difficult to read will result in a reduced grade for the Team Lead.
 - [ ] The document **must contain the sections** shown below IN THE ORDER SHOWN, clearly delineated with the following headings. The sub-bullets are shown here for your understanding only. (Do not include them in your document.)
