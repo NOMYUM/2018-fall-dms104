@@ -9,10 +9,9 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
-  - Create Interaction Framework and Design Language
-  - Project 3: Design Vision, due Thursday, April 24 (maybe sooner, stand by...)
+  - [Project 3: Design Vision](project03-design-vision/instructions.md)
 - Previous assignments:
-  - Project 2: [User & Domain Analysis (U&DA)](project02-u&da/instructions.md), due Thursday, April 12
+  - Project 2: [User & Domain Analysis (U&DA)](project02-u&da/instructions.md)
   - Create Requirements & Scenarios
   - Modeling Workshop, Persona Workshop
   - Research - interviews, other research
