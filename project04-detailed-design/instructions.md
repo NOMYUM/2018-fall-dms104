@@ -40,9 +40,9 @@ Every aspect of your team’s product design must be defined and presented in th
 
 The Team Lead needs work with the rest of the team to figure-out the best way to structure the document and make sure there are full descriptions of your product in terms of:
 
-- It's interface - every interaction (from the IxD)
-- It's visual properties (from the VisD)
-- It's physical properties (from the ID)
+- Its interface - every interaction (from the IxD)
+- Its visual properties (from the VisD)
+- Its physical properties (from the ID)
 
 (Again, see chapter 24 for lots of examples of various types of ways to represent product designs.  
 
