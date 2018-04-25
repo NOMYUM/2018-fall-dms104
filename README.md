@@ -9,13 +9,10 @@ Design in the Digital Age
 <hr>
 
 - Current assignment:
-  - [Project 3: Design Vision](project03-design-vision/instructions.md)
+  - [Project 4: Detailed Design](project04-detailed-design/instructions.md), due Friday, May 11 (end of exams week)
 - Previous assignments:
-  - Project 2: [User & Domain Analysis (U&DA)](project02-u&da/instructions.md)
-  - Create Requirements & Scenarios
-  - Modeling Workshop, Persona Workshop
-  - Research - interviews, other research
-  - Focus Groups
+  - [Project 3: Design Vision](project03-design-vision/instructions.md)
+  - [Project 2: User & Domain Analysis (U&DA)](project02-u&da/instructions.md)
   - [Research Plan](checkpoint02-research-plan/instructions.md)
   - [Marketing Requirements Document (MRD)](project01-mrd/instructions.md)
   - [Idea Proposals (PDF)](lecture04-idea-generation/criteria-design-project-ideas.pdf) 
