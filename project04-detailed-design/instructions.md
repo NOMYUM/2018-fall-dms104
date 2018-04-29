@@ -53,6 +53,12 @@ Anywhere in the document...
   - [ ] Descriptions of **visual properties** will determine the VisD's grade
   - [ ] Descriptions of **physical properties** will determine the ID's grade
 
+## Colophon
+
+*(Team Lead)*
+
+- The last page of the document needs to list who worked on the design team, their roles, and a short description of their contribution to this U&DA document.
+
 ## Submission in Blackboard
 
 Everyone needs to turn-in the same document in Blackboard (so you can be graded as an individual for the part you wrote.)
